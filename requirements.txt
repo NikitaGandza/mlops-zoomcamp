@@ -1,3 +1,4 @@
 notebook
 pyarrow
 pandas
+scikit-learn
