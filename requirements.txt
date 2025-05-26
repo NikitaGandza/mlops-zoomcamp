@@ -4,3 +4,9 @@ pandas
 scikit-learn
 seaborn
 matplotlib
+mlflow
+jupyter
+hyperopt
+xgboost
+fastparquet
+boto3
